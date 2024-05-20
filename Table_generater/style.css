@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.table-container {
+  text-align: center;
+  background-color: aqua;
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+}
+
+/* .input-box{
+} */
+.result-Box {
+  background-color: blue;
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}

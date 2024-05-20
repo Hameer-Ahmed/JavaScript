@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: blueviolet;
+  min-height: 100vh;
+}
+.box {
+  width: 70%;
+  min-height: 90vh;
+  background-color: cyan;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  width: 800px;
+  margin: auto;
+}
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+h2 {
+  margin: 20px;
+}
